@@ -42,6 +42,6 @@ cta_button_label: contact # the label on the button
 
 ---			
 [//]: # (write a bit about yourself here)
-I'm a senior ECE student at the [University of Toronto](https://www.utoronto.ca/). My areas of interest are blockchain, computer networks, hardware and ML. I'm proficient in C/C++, Python, Solidity and Verilog.
+### I'm a senior ECE student at the [University of Toronto](https://www.utoronto.ca/). My areas of interest are blockchain, computer networks, hardware and ML. I'm proficient in C/C++, Python, Solidity and Verilog.
 
-Outside of work, I love watching movies and anime! I also enjoy bowling and table tennis as well as playing league of legends.
+### Outside of work, I love watching movies and anime! I also enjoy bowling and table tennis as well as playing league of legends.
