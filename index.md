@@ -12,7 +12,7 @@ background_image: /images/web_background.jpg
 # page_url: / # only include this variable if you aren't building the page to your primary domain 
 
 # favicon
-favicon: /assets/ico/favicon.ico
+favicon: /assets/ico/blockchain.ico
 
 # social media
 # twitter_username: notsaragong # # your twitter handle
@@ -42,7 +42,7 @@ cta_button_label: contact # the label on the button
 
 ---			
 [//]: # (write a bit about yourself here)
-### why **hello**?  
+### why **XD**?  
 
 ### **hello** has a simple goal: to make GitHub Pages accessible to everyone.  
   
