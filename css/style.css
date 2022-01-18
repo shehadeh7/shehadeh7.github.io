@@ -233,7 +233,7 @@ custom styles adapted from Twenty by HTML5 Up
 		.image.featured img {
 			display: block;
 			width: 100%;
-			height: 100%;
+			height: 300px;
 		}
 
 /* Icon */
