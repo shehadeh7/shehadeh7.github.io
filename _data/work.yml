@@ -8,13 +8,13 @@ work:
         image: /images/option_pricing.jpg # optionally, include the file path for an image for each item
       - item: intel_yr1.html
         image: /images/electronics.jpg
-  # - category: Projects
-  #   items:
-  #     - item: example.html
-  #       image: /images/LA1.jpg
-  #     - item: example.html
-  #       image: /images/LA2.jpg
-  #     - item: example2.html
-  #       image: /images/LA3.jpg
-  #     - item: example3.html
-  #       image: /images/LA4.jpg
+  - category: Projects
+    items:
+      - item: harmony.html
+        image: /images/harmony.jpg
+      - item: gis.html
+        image: /images/gis.jpg
+      - item: obstruction.html
+        image: /images/obstruction.jpg
+      - item: fighting.html
+        image: /images/.jpg
